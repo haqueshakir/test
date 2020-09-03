@@ -1,0 +1,58 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+header{
+	background: #C82B32;
+	height: 100px;
+}
+.logo{
+	background: #23B14D;
+	height: 100%;
+	width: 120px;
+	float: left;
+}
+.menu{
+	background: #00A3E7;
+	height: 100%;
+	width: 50%;
+	overflow: hidden;
+	float: right;
+	
+}
+
+main{
+	background: black;
+	height: 500px;
+}
+.left_sidebar{
+	background: #3F47CC;
+	height: 100%;
+	width: 30%;
+	float: left;
+	
+}
+.content{
+	background: #FF7F26;
+	height: 100%;
+	width: 70%;
+	overflow: hidden;
+	float: right;
+}
+footer{
+	background: #FEF200;
+	height: 50px;
+}
+.footer_menu{
+	background: #A647A3;
+	height: 100%;
+	width: 30%;
+	float: left;
+}
+.copy{
+	background: #B97A57;
+	height: 100%;
+	width: 50%;
+	overflow: hidden;
+	float: right;
+}
